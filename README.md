@@ -5,6 +5,8 @@ Desc
 <!-- You can add more screenshots here if you like -->
 Screenshots
 
+<img src= "https://github.com/alvarotolledo/cauculkadoraimc/blob/master/app/src/main/res/drawable/Screenshot_20240615_190506.png" width = 250 />
+
 ## Tecnologias
 Techs
 
